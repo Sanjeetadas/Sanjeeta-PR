@@ -27,3 +27,5 @@ I enjoy exploring new technologies.
 
 
 
+Favourite computer language- Python (and sometime Javascipt😉)
+
